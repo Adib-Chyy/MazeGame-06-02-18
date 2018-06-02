@@ -1,0 +1,66 @@
+C:\Users\023627\AppData\Local\Temporary Projects\GDI\bin\Debug\GDI.exe
+C:\Users\023627\AppData\Local\Temporary Projects\GDI\bin\Debug\GDI.pdb
+C:\Users\023627\AppData\Local\Temporary Projects\GDI\obj\x86\Debug\GDI.Properties.Resources.resources
+C:\Users\023627\AppData\Local\Temporary Projects\GDI\obj\x86\Debug\GDI.csproj.GenerateResource.Cache
+C:\Users\023627\AppData\Local\Temporary Projects\GDI\obj\x86\Debug\GDI.exe
+C:\Users\023627\AppData\Local\Temporary Projects\GDI\obj\x86\Debug\GDI.pdb
+C:\Users\023627\AppData\Local\Temporary Projects\GDI\obj\x86\Debug\GDI.Form1.resources
+h:\visual studio 2010\Projects\GDI\GDI\obj\x86\Debug\GDI.exe
+h:\visual studio 2010\Projects\GDI\GDI\obj\x86\Debug\GDI.pdb
+h:\visual studio 2010\Projects\GDI\GDI\bin\Debug\GDI.exe
+h:\visual studio 2010\Projects\GDI\GDI\bin\Debug\GDI.pdb
+h:\visual studio 2010\Projects\GDI\GDI\obj\x86\Debug\GDI.Form1.resources
+h:\visual studio 2010\Projects\GDI\GDI\obj\x86\Debug\GDI.Properties.Resources.resources
+h:\visual studio 2010\Projects\GDI\GDI\obj\x86\Debug\GDI.csproj.GenerateResource.Cache
+C:\Users\023627\Desktop\GDI\GDI\obj\x86\Debug\GDI.exe
+C:\Users\023627\Desktop\GDI\GDI\obj\x86\Debug\GDI.pdb
+C:\Users\023627\Desktop\GDI\GDI\bin\Debug\GDI.exe
+C:\Users\023627\Desktop\GDI\GDI\bin\Debug\GDI.pdb
+C:\Users\023627\Desktop\GDI\GDI\obj\x86\Debug\GDI.Form1.resources
+C:\Users\023627\Desktop\GDI\GDI\obj\x86\Debug\GDI.Properties.Resources.resources
+C:\Users\023627\Desktop\GDI\GDI\obj\x86\Debug\GDI.csproj.GenerateResource.Cache
+C:\Users\023627\Desktop\collision\GDI\bin\Debug\GDI.exe
+C:\Users\023627\Desktop\collision\GDI\bin\Debug\GDI.pdb
+C:\Users\023627\Desktop\collision\GDI\obj\x86\Debug\GDI.Form1.resources
+C:\Users\023627\Desktop\collision\GDI\obj\x86\Debug\GDI.Properties.Resources.resources
+C:\Users\023627\Desktop\collision\GDI\obj\x86\Debug\GDI.csproj.GenerateResource.Cache
+C:\Users\023627\Desktop\collision\GDI\obj\x86\Debug\GDI.exe
+C:\Users\023627\Desktop\collision\GDI\obj\x86\Debug\GDI.pdb
+C:\Users\023627\Desktop\collision\GDI\obj\x86\Debug\GDI.csprojResolveAssemblyReference.cache
+C:\Users\023627\Desktop\collision\GDI\obj\x86\Debug\GDI.csproj.CoreCompileInputs.cache
+C:\Users\023627\Desktop\readmapfile\GDI\bin\Debug\GDI.exe
+C:\Users\023627\Desktop\readmapfile\GDI\bin\Debug\GDI.pdb
+C:\Users\023627\Desktop\readmapfile\GDI\obj\x86\Debug\GDI.csprojResolveAssemblyReference.cache
+C:\Users\023627\Desktop\readmapfile\GDI\obj\x86\Debug\GDI.Form1.resources
+C:\Users\023627\Desktop\readmapfile\GDI\obj\x86\Debug\GDI.Properties.Resources.resources
+C:\Users\023627\Desktop\readmapfile\GDI\obj\x86\Debug\GDI.csproj.GenerateResource.Cache
+C:\Users\023627\Desktop\readmapfile\GDI\obj\x86\Debug\GDI.csproj.CoreCompileInputs.cache
+C:\Users\023627\Desktop\readmapfile\GDI\obj\x86\Debug\GDI.exe
+C:\Users\023627\Desktop\readmapfile\GDI\obj\x86\Debug\GDI.pdb
+C:\Users\324629005\Desktop\readmapfile\GDI\bin\Debug\GDI.exe
+C:\Users\324629005\Desktop\readmapfile\GDI\bin\Debug\GDI.pdb
+C:\Users\324629005\Desktop\readmapfile\GDI\obj\x86\Debug\GDI.csprojResolveAssemblyReference.cache
+C:\Users\324629005\Desktop\readmapfile\GDI\obj\x86\Debug\GDI.Form1.resources
+C:\Users\324629005\Desktop\readmapfile\GDI\obj\x86\Debug\GDI.Properties.Resources.resources
+C:\Users\324629005\Desktop\readmapfile\GDI\obj\x86\Debug\GDI.csproj.GenerateResource.Cache
+C:\Users\324629005\Desktop\readmapfile\GDI\obj\x86\Debug\GDI.csproj.CoreCompileInputs.cache
+C:\Users\324629005\Desktop\readmapfile\GDI\obj\x86\Debug\GDI.exe
+C:\Users\324629005\Desktop\readmapfile\GDI\obj\x86\Debug\GDI.pdb
+H:\readmapfile\GDI\bin\Debug\GDI.exe
+H:\readmapfile\GDI\bin\Debug\GDI.pdb
+H:\readmapfile\GDI\obj\x86\Debug\GDI.csprojResolveAssemblyReference.cache
+H:\readmapfile\GDI\obj\x86\Debug\GDI.Form1.resources
+H:\readmapfile\GDI\obj\x86\Debug\GDI.Properties.Resources.resources
+H:\readmapfile\GDI\obj\x86\Debug\GDI.csproj.GenerateResource.cache
+H:\readmapfile\GDI\obj\x86\Debug\GDI.csproj.CoreCompileInputs.cache
+H:\readmapfile\GDI\obj\x86\Debug\GDI.exe
+H:\readmapfile\GDI\obj\x86\Debug\GDI.pdb
+D:\readmapfile\GDI\bin\Debug\GDI.exe
+D:\readmapfile\GDI\bin\Debug\GDI.pdb
+D:\readmapfile\GDI\obj\x86\Debug\GDI.Form1.resources
+D:\readmapfile\GDI\obj\x86\Debug\GDI.Properties.Resources.resources
+D:\readmapfile\GDI\obj\x86\Debug\GDI.csproj.GenerateResource.Cache
+D:\readmapfile\GDI\obj\x86\Debug\GDI.csproj.CoreCompileInputs.cache
+D:\readmapfile\GDI\obj\x86\Debug\GDI.exe
+D:\readmapfile\GDI\obj\x86\Debug\GDI.pdb
+D:\readmapfile\GDI\obj\x86\Debug\GDI.csprojAssemblyReference.cache

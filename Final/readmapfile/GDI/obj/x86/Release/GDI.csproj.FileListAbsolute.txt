@@ -1,0 +1,9 @@
+C:\Users\023627\Desktop\GDI\GDI\bin\Release\GDI.exe
+C:\Users\023627\Desktop\GDI\GDI\bin\Release\GDI.pdb
+C:\Users\023627\Desktop\GDI\GDI\obj\x86\Release\GDI.Form1.resources
+C:\Users\023627\Desktop\GDI\GDI\obj\x86\Release\GDI.Properties.Resources.resources
+C:\Users\023627\Desktop\GDI\GDI\obj\x86\Release\GDI.csproj.GenerateResource.Cache
+C:\Users\023627\Desktop\GDI\GDI\obj\x86\Release\GDI.exe
+C:\Users\023627\Desktop\GDI\GDI\obj\x86\Release\GDI.pdb
+C:\Users\023627\Desktop\collision\GDI\obj\x86\Release\GDI.exe
+C:\Users\023627\Desktop\collision\GDI\obj\x86\Release\GDI.pdb
